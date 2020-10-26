@@ -1,7 +1,7 @@
 header{
     display: flex;
     flex-direction: column;
-    background: chocolate;
+    background: #F0E7D8;
     margin-bottom: 0px;
     padding-top: 10px;
 }
@@ -41,7 +41,7 @@ header nav ul li:last-child{
 }
 
 main{
-    background-color: rgb(150, 31, 55);
+    background-color: beige;
 
 }
 
@@ -89,7 +89,7 @@ main article section li a{
     font-family: 'Patrick Hand', cursive;
     list-style: none;
     font-size: 27px;
-    color: wheat;
+    color: violet;
     
 }
 
